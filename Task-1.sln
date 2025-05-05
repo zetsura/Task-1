@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-1", "Task-1\Task-1.csproj", "{F517623A-F021-44E9-9E57-86FBB5DBFE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-1-xUnit.Test", "Task-1-xUnit.Test\Task-1-xUnit.Test.csproj", "{70A003A5-BA14-4424-9D6B-D24E3E72DCF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chatlog", "chatlog", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F517623A-F021-44E9-9E57-86FBB5DBFE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F517623A-F021-44E9-9E57-86FBB5DBFE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F517623A-F021-44E9-9E57-86FBB5DBFE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F517623A-F021-44E9-9E57-86FBB5DBFE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A003A5-BA14-4424-9D6B-D24E3E72DCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A003A5-BA14-4424-9D6B-D24E3E72DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A003A5-BA14-4424-9D6B-D24E3E72DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A003A5-BA14-4424-9D6B-D24E3E72DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AC9D3A-AA99-4B39-A9CA-B08D29DB9367}
+	EndGlobalSection
+EndGlobal
