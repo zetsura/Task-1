@@ -29,7 +29,6 @@ Before running the application, you need to configure the database connection in
 
 ### Running Migration Commands
 ```bash
-Add-Migration Init
 Update-Database
 ```
 # Task Feedback
